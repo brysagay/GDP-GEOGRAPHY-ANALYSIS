@@ -1,9 +1,3 @@
-## Results Preview
-
-![Regression Results](figures/results_barplot.png)
-
-
-
 # Geographic Determinants of GDP per Capita
 
 ## Overview
@@ -11,6 +5,16 @@
 This project investigates whether geographic characteristics influence GDP per capita across countries. Using data from the **World Bank** and **CEPII** covering the period **2010–2020**, the analysis explores how agricultural land, natural resource rents, and landlocked status relate to economic performance through panel data econometric techniques.
 
 The project demonstrates the complete data science workflow, from data collection and cleaning to exploratory analysis, statistical modelling, and interpretation of results.
+
+## Results Preview
+
+### Within Effects
+
+![Within Effects](figures/Within-effects.png)
+
+### Between Effects
+
+![Between Effects](figures/Between-effects.png)
 
 ## Objectives
 
