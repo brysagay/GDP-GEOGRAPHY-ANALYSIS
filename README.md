@@ -1,3 +1,9 @@
+## Results Preview
+
+![Regression Results](figures/results_barplot.png)
+
+
+
 # Geographic Determinants of GDP per Capita
 
 ## Overview
