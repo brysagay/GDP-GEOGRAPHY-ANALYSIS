@@ -71,4 +71,6 @@ The analysis evaluates the extent to which geographic characteristics are associ
 
 ## Author
 
-Created as an academic data science and econometrics project demonstrating applied statistical analysis using Python.
+**Brayant Sagay**
+
+BSc Economics and Data Science student at Royal Holloway, University of London.
